@@ -2,7 +2,6 @@
 The goal of the project is to represent the horror emotion using lights and paper. I created a projector using paper shaped into cylinders and using cut paper to create different scenes.
 
 ## Final video
-Inline-style: 
 ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/giphy.gif "Logo Title Text 1")
 
 ## The sculpture
