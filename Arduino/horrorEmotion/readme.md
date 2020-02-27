@@ -3,7 +3,7 @@ The goal of the project is to represent the horror emotion using lights and pape
 
 ## Final video
 Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/giphy.gif "Logo Title Text 1")
 
 ## The sculpture
 The sculpture consists of the following pieces
