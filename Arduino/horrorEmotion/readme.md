@@ -17,6 +17,7 @@ The sculpture consists of the following pieces
 1. Two projection tubes made using the Template Marker site. 
 2. Two different outlines - illustrated and cut using the cricut paper cutting machine.
 3. A box to hold the projection tubes and a screen to create a theater effect.
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200220_122945.jpg "mask2")
 
 ## Code
 Please [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/mylightsculpture.ino) for the code
