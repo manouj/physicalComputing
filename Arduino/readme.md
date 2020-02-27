@@ -6,4 +6,9 @@ Inline-style:
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 # The sculpture
-The sculpture consists of two projection tubes made using the Template Marker site. It has paper cut into 
+The sculpture consists of the following pieces
+1. Two projection tubes made using the Template Marker site. 
+2. Two different outlines - illustrated and cut using the cricut paper cutting machine.
+3. A box to hold the projection tubes and a screen to create a theater effect.
+
+
