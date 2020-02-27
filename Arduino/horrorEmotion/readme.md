@@ -6,11 +6,11 @@ The goal of the project is to represent the horror emotion using lights and pape
 
 ## Initial ideas
 1. I wanted to recreate the classical "light under the face" horror effect. For this, I created a face mask using a template and I used red and blue lights under the face to create this effect. However, the face mask was not realistic enough to create this emotion.
-![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200217_174644.jpg "mask1")
-![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200217_185151.jpg "mask2")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200217_174644.jpg | width=100 "mask1")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200217_185151.jpg | width=100 "mask2")
 
 2. I switched to the idea of a light box which works by having LEDs inside a box and using layers of cutout papers to cast shadows on a screen. 
-![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200219_231717.jpg "mask2")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/20200219_231717.jpg | width=100 "mask2")
 
 ## The sculpture
 The sculpture consists of the following pieces
