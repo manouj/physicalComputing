@@ -37,13 +37,13 @@ This gamebox consists of the following components
 7. A potentiometer
  ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/Coll.png "components")
 
+### Functionality demo - Starting game, Servo actions, Reset game when game over
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/buttonsAndServo.gif "buttonsAndServo")
+
+### Functionality demo - Light detection 
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/LightDetection.gif "lightDetection")
 
 ## Code
-Please [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/mylightsculpture.ino) for the code
+ [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/HideAndGlow.ino)
 
-## Circuit
-1. 2 LED lights - One white and one red
-2. One push button
-3. 2 - 220 ohm resistors
-4. 1 - 10K ohm resistor
-5. 1 Arduino Uno
+
