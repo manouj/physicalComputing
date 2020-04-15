@@ -1,5 +1,5 @@
 # Playful Experiences
-The goal of this project is to create a fun analog interface. 
+The goal of this project is to create a fun analog interface using arduino and everyday items. 
 
 # Project : Hide and Glow!
 
