@@ -5,7 +5,7 @@ The goal of this project is to create a fun analog interface using arduino and e
 
 ## Description
 Hide and Glow is a fast paced human vs machine game. In player side of the game, there are five lights and five buttons corresponding to each of the lights. On the machine side, there is a servo powered arm with a light detector at the end of the arm. 
-The objective of this game is to avoid LEDs/lights from getting detected by the randomly moving light detector(guided by the servo arm). 
+The objective of this game is to have two lights glowing at any point of time and at the same time avoid LEDs/lights from getting detected by the randomly moving light detector(guided by the servo arm). 
 
 ### Game mechanics
 Press any two buttons together to start the game. This will make the light detector to start moving.
