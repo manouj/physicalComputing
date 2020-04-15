@@ -35,9 +35,8 @@ This gamebox consists of the following components
 5. 5 Buttons
 6. 5 LEDs
 7. A potentiometer
- ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/20200414_210153.jpg | width=100 )
- ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/20200414_210309.jpg =250x250)
- ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/20200414_214542.jpg "3")
+ ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/Coll.png "components")
+
 
 ## Code
 Please [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/mylightsculpture.ino) for the code
