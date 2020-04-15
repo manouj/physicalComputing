@@ -23,7 +23,7 @@ The objective of this game is to last as long as possible
 https://drive.google.com/file/d/19EOtFwsf9OKTORKLSHJlHZHb4tpLmdJS/view?usp=sharing
 
 ## Preview gif (Without sound)
-![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiences/final.gif "FinalGif")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/final.gif "FinalGif")
 
 
 ## The sculpture
