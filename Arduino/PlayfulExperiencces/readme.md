@@ -38,12 +38,18 @@ This gamebox consists of the following components
  ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/Coll.png "components")
 
 ### Functionality demo - Starting game, Servo actions, Reset game when game over
+1. Two buttons are required to be held in order to start the game. The servo motor is programmed to go to any of the 5 light spots randomly. The 5 light spots are 18 degrees apart from each other.
+2. The game resets whenever less than two buttons are held. The servo goes to position 0 when the game resets. 
+3. The speed of the servo was designed to be controlled by the potentiometer, which would inturn control the difficulty of the game. However, due to lack of soldering tools, this functionality was not included (It was difficult to use potentiometer directly on the breadboard).
+4.Everytime the game resets, the active buzzer goes off for 100ms. 
 ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/buttonsAndServo.gif "buttonsAndServo")
 
 ### Functionality demo - Light detection 
+1. The photoresistor is always active, and whenever the light input is higher than the predefined treshhold value, the game resets. 
+2. Everytime the game resets, the active buzzer goes off for 100ms. 
 ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/LightDetection.gif "lightDetection")
 
 ## Code
- [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/HideAndGlow.ino)
+ [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/HideAndGlow.ino) for the code
 
 
