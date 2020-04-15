@@ -47,6 +47,7 @@ This gamebox consists of the following components
 ### Functionality demo - Light detection 
 1. The photoresistor is always active, and whenever the light input is higher than the predefined treshhold value, the game resets. 
 2. Everytime the game resets, the active buzzer goes off for 100ms. 
+
 ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/LightDetection.gif "lightDetection")
 
 ## Code
