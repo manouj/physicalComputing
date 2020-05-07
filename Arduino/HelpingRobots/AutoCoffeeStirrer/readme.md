@@ -1,22 +1,32 @@
 # Helping Robots
-The goal of the project is to represent the horror emotion using lights and paper. I created a projector using paper shaped into cylinders and using cut paper to create different scenes.
+The goal for this project is to make a helpful or not helpful robot.
 
-## Final video
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# Project : Coffee Stirring machine!
 
-## The sculpture
-The sculpture consists of the following pieces
-1. Two projection tubes made using the Template Marker site. 
-2. Two different outlines - illustrated and cut using the cricut paper cutting machine.
-3. A box to hold the projection tubes and a screen to create a theater effect.
+## Description
+For many including me, a coffee in the morning is mandatory to drive them through the day. One of the steps in making any good coffee is giving it a good stir. Taking inspiration from inventor Simone Giertz, I wanted to create a coffee stirring machine. This simple machine will stir your coffee when you place your cup on it.
+
+
+### Working
+1. Place you cup on the marked location.
+2. The machine does its job.
+3. Take out the cup. Enjoy your perfectly stirred coffee!
+
+### Challenges
+1. Due to the limited availability of resources, the scale of the project is reduced.
+
+## Prototype
+![alt text](https://media.giphy.com/media/QvXOweNLUnKiJZ6mdk/giphy.gif "FinalGif")
+
+
+## Components
+1. Arduino Uno R3
+2. A Servo motor
+3. An ultrasonic sensor
+4. A DC motor
+5. Wires, npn transistor, diode and resistors
 
 ## Code
-Please [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/horrorEmotion/mylightsculpture.ino) for the code
+ [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/HideAndGlow.ino) for the code
 
-## Circuit
-1. 2 LED lights - One white and one red
-2. One push button
-3. 2 - 220 ohm resistors
-4. 1 - 10K ohm resistor
-5. 1 Arduino Uno
+
