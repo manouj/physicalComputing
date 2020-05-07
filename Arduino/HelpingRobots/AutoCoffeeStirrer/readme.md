@@ -16,7 +16,7 @@ For many including me, a coffee in the morning is mandatory to drive them throug
 1. Due to the limited availability of resources, the scale of the project is reduced.
 
 ## Prototype
-![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/HelpingRobots/AutoCoffeeStirrer/giphy.gif "FinalGif")
+![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/HelpingRobots/AutoCoffeeStirrer/giphy%20(1).gif "FinalGif")
 
 
 ## Components
