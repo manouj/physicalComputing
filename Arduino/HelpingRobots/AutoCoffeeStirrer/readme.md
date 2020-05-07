@@ -13,7 +13,7 @@ For many including me, a coffee in the morning is mandatory to drive them throug
 3. Take out the cup. Enjoy your perfectly stirred coffee!
 
 ### Challenges
-1. Due to the limited availability of resources, the scale of the project is reduced.
+1. Due to the limited availability of resources, the scale of the project was affected.
 
 ## Prototype
 ![alt text](https://github.com/manouj/physicalComputing/blob/master/Arduino/HelpingRobots/AutoCoffeeStirrer/giphy%20(1).gif "FinalGif")
