@@ -27,6 +27,6 @@ For many including me, a coffee in the morning is mandatory to drive them throug
 5. Wires, npn transistor, diode and resistors
 
 ## Code
- [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/PlayfulExperiencces/HideAndGlow.ino) for the code
+ [click here](https://github.com/manouj/physicalComputing/blob/master/Arduino/HelpingRobots/AutoCoffeeStirrer/CoffeeStirrer.ino) for the code
 
 
