@@ -1,4 +1,4 @@
-# Representing the horror emotion
+# Helping Robots
 The goal of the project is to represent the horror emotion using lights and paper. I created a projector using paper shaped into cylinders and using cut paper to create different scenes.
 
 ## Final video
